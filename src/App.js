@@ -4,9 +4,9 @@ function App() {
       <header>
         <a href="/">amazim</a>
       </header>
-      <main>list products</main>
+      <main>list productss</main>
     </div>
   );
-}
+} 
 
 export default App;
